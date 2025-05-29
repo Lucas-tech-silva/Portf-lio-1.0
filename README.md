@@ -58,6 +58,6 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
 <br>
 <p align="center">
   <i> 💬 Esperar estar pronto é o disfarce mais elegante da procrastinação. <br>
-    — "Lucas Silva" </i>
+    "Lucas Silva" </i>
 </p>
 
