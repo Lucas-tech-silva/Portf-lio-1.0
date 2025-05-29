@@ -57,7 +57,6 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
 
 <br>
 <p align="center">
-  <i> 💬 Esperar estar pronto é o disfarce mais elegante da procrastinação.
-                — "Lucas Silva" </i>
+  <i> 💬 Esperar estar pronto é o disfarce mais elegante da procrastinação. — "Lucas Silva" </i>
 </p>
 
