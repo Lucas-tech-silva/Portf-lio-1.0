@@ -36,16 +36,18 @@ Tudo foi feito sem o uso de frameworks ou bibliotecas externas, com o objetivo d
 
 ---
 
+## 📸 Capturas de Tela
+
+![Seção de Projetos](https://github.com/user-attachments/assets/6afac1ea-e4b2-4695-9406-470ea4aed4d7)
+
+---
+
 ## ⚠️ Conteúdo Privado
 
 Lembrando que o conteúdo do site está privado para proteger a integridade do projeto e garantir os direitos sobre o conteúdo.
 Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto e autorizado.
 
 ---
-
-## 📸 Capturas de Tela
-
-![Seção de Projetos](https://github.com/user-attachments/assets/6afac1ea-e4b2-4695-9406-470ea4aed4d7)
 
 ### 🌐 Onde me encontrar
 
