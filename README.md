@@ -1,10 +1,16 @@
-# 🚀 Meu Portfólio Pessoal
+![image](https://github.com/user-attachments/assets/198aee05-5cde-4e27-ad33-b1b445f48277)# 🚀 Meu Portfólio Pessoal
 
 🌐 **Veja o site em funcionamento:**  
 
-👉 [Acesse aqui](https://portflio-2-0.vercel.app) <!-- substitua com seu link real -->
+👉 [Acesse aqui](https://portflio-2-0.vercel.app)
 
 ---
+
+## 📸 Capturas de Tela
+
+![Home](https://github.com/user-attachments/assets/6afac1ea-e4b2-4695-9406-470ea4aed4d7)
+
+![Seção de Projetos](link-da-imagem-projetos)
 
 ## 📌 Sobre o projeto
 
