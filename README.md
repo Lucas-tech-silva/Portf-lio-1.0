@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/198aee05-5cde-4e27-ad33-b1b445f48277)# 🚀 Meu Portfólio Pessoal
+# 🚀 Meu Portfólio Pessoal
 
 🌐 **Veja o site em funcionamento:**  
 
