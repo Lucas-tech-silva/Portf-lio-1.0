@@ -10,7 +10,7 @@
 
 ![Home](https://github.com/user-attachments/assets/6afac1ea-e4b2-4695-9406-470ea4aed4d7)
 
-![Seção de Projetos](link-da-imagem-projetos)
+![Seção de Projetos]([link-da-imagem-projetos](https://github.com/user-attachments/assets/6afac1ea-e4b2-4695-9406-470ea4aed4d7))
 
 ## 📌 Sobre o projeto
 
