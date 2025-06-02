@@ -6,8 +6,6 @@
 
 ---
 
-
-
 ## 📌 Sobre o projeto
 
 Este é meu portfólio pessoal criado com o objetivo de apresentar quem sou, minhas habilidades como desenvolvedor Front-end e os projetos que venho desenvolvendo.
@@ -44,6 +42,7 @@ Lembrando que o conteúdo do site está privado para proteger a integridade do p
 Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto e autorizado.
 
 ---
+
 ## 📸 Capturas de Tela
 
 ![Seção de Projetos](https://github.com/user-attachments/assets/6afac1ea-e4b2-4695-9406-470ea4aed4d7)
