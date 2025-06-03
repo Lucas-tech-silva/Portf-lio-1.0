@@ -55,6 +55,9 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
   <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail">
 </a>
 
+<a href="https://wa.me/5511930343236" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
 </p>
 
