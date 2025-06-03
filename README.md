@@ -52,8 +52,12 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
   <a href="https://mail.yahoo.com/d/folders/1?.intl=br&.lang=pt-BR&pspid=2114710002&activity=header-mail">
     <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
   </a>
-<a href="https://wa.me/5511930343236?text=Ol%C3%A1%2C%20Lucas%20gostaria%20de%20falar%20com%20voc%C3%AA%20%3F">
-  <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="transform: scale(50); transform-origin: left;"/>
+<a href="https://wa.me/5511930343236?text=Olá,%20Lucas%20gostaria%20de%20falar%20com%20você?">
+  <svg xmlns="http://www.w3.org/2000/svg" width="250" height="40" role="img" aria-label="WhatsApp">
+    <rect width="250" height="40" rx="8" ry="8" fill="#25D366" />
+    <text x="10" y="25" fill="white" font-family="Verdana, sans-serif" font-size="14" font-weight="bold">WhatsApp</text>
+    <text x="120" y="28" fill="white" font-family="Verdana, sans-serif" font-size="20" font-weight="bold">(11) 93034-3236</text>
+  </svg>
 </a>
 </p>
 <br>
