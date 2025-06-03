@@ -57,6 +57,9 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+  <a href="mailto:seuemail@yahoo.com?subject=Assunto%20da%20Mensagem&body=Olá,%20vi%20seu%20GitHub%20e%20gostaria%20de%20falar%20com%20você.">
+  <button>Yahoo Mail</button>
+</a>
   
    <a href="https://wa.me/5511930343236?text=Ol%C3%A1%2C%20Lucas%20gostaria%20de%20falar%20com%20voc%C3%AA%20%3F">
   <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
