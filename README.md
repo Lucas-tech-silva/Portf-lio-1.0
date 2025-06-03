@@ -45,10 +45,18 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
 
 ### 🌐 Onde me encontrar
 
+
 <p align="center">
-  <a href="linkedin.com/in/lucas-silva-537346369" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://linkedin.com/in/lucas-silva-537346369" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
+  <a href="mailto:lucassilva1704@yahoo.com?subject=Contato%20Profissional%20-%20Via%20GitHub&body=Prezado%20Lucas,%0D%0A%0D%0AEncontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20estabelecer%20contato%20para%20tratarmos%20de%20possíveis%20oportunidades%20ou%20colaborações.%0D%0A%0D%0AFico%20no%20aguardo%20do%20seu%20retorno.%0D%0A%0D%0AAtenciosamente." target="_blank">
+    <img src="https://img.shields.io/badge/Yahoo-Mail-purple?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail"/>
+  </a>
+</p>
+
   <a href="https://mail.yahoo.com/d/folders/1?.intl=br&.lang=pt-BR&pspid=2114710002&activity=header-mail">
     <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
   </a>
