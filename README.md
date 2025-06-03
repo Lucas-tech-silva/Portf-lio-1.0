@@ -46,7 +46,6 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
 ### 🌐 Onde me encontrar
 
 
-<p align="center">
   <a href="https://linkedin.com/in/lucas-silva-537346369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -59,7 +58,6 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
   <img src="https://img.shields.io/badge/WhatsApp-(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-</p>
 
 <br>
 <p align="center">
