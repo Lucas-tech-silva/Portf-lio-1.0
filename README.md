@@ -55,10 +55,16 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
   <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail">
 </a>
 
-<a href="https://wa.me/5511930343236" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/WhatsApp-11%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+  <a href="https://wa.me/5511930343236" target="_blank" style="display: inline-flex; text-decoration: none;">
+    <span style="display: inline-flex; align-items: center; background-color: #444; color: white; padding: 8px 10px; font-family: sans-serif; font-size: 14px; border-radius: 4px 0 0 4px;">
+      <img src="https://img.icons8.com/ios-filled/20/25D366/whatsapp.png" style="margin-right: 5px;" alt="WhatsApp"> WHATSAPP
+    </span>
+    <span style="display: inline-block; background-color: #25D366; color: white; padding: 8px 12px; font-family: sans-serif; font-size: 14px; border-radius: 0 4px 4px 0;">
+      11 93034-3236
+    </span>
+  </a>
 </p>
+
 <br>
 <p align="center">
   <i> 💬 Esperar estar pronto é o disfarce mais elegante da procrastinação. — "Lucas Silva" </i>
