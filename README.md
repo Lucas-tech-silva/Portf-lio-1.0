@@ -53,7 +53,7 @@ Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto 
     <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
   </a>
 <a href="https://wa.me/5511930343236?text=Ol%C3%A1%2C%20Lucas%20gostaria%20de%20falar%20com%20voc%C3%AA%20%3F">
-  <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="transform: scale(1.5); transform-origin: left;"/>
+  <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="transform: scale(50); transform-origin: left;"/>
 </a>
 </p>
 <br>
